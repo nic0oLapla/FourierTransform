@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Nicol/OneDrive/Documents/Code/C++/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Users\\Nicol\\MSYS2\\mingw64\\bin\\g++.exe",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
